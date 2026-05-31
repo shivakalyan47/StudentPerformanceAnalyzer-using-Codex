@@ -1,0 +1,5 @@
+out/
+*.class
+reports/*.txt
+.DS_Store
+Thumbs.db

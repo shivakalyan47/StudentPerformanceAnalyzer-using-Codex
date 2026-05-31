@@ -1,0 +1,23 @@
+StudentPerformanceAnalyzer/
+  src/com/spa/
+    Main.java
+    model/
+      Person.java
+      Student.java
+      SubjectMark.java
+      PerformanceResult.java
+    service/
+      PerformanceAnalyzer.java
+      ReportGenerator.java
+      StudentManager.java
+    ui/
+      LoginFrame.java
+      DashboardFrame.java
+    util/
+      AppConstants.java
+      ValidationException.java
+  docs/
+    UML_Class_Diagram.md
+    Project_Report.md
+  reports/
+    generated report files
